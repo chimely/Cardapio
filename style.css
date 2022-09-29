@@ -1,0 +1,29 @@
+body {
+    font-family: monospace;
+    color: #000000;
+    background-color:#3b39c7;
+}
+
+ul {
+    font-family: Arial;
+}
+li {
+    list-style: circle;
+  }
+  
+  
+  .list {
+    list-style: square;
+  }
+  
+  #msg {
+    font-family: monospace;
+    font-size: 30px;
+  }
+  .escolha img{
+  max-width:200px;
+  max-height:200px;
+  }
+
+ 
+
